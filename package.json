@@ -1,0 +1,1 @@
+{"description":"One funny line for make.fun: a phone that dies mid-search for battery tips","license":"MIT","name":"makefun-judge-laugh-20261126","private":true,"scripts":{"start":"node main.ts","test":"node --test main.test.ts"},"type":"module","version":"1.0.0"}
