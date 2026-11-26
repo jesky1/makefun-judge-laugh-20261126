@@ -1,7 +1,9 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // Make the Judge Laugh in One Line — exactly one line, under 200 characters.
-// Setup: a phone dying mid-search. Twist: the irony outlives the phone.
+// Judge brief: any topic, surprise over the obvious, tight, fresh, punchline
+// at the end, readable aloud in one breath. Setup: a phone dying mid-search.
+// Twist: the irony outlives the phone.
 export const LINE =
   "My phone died at 2% while I was Googling how to make batteries last longer — the irony outlived the phone.";
 
